@@ -1,0 +1,8 @@
+---------- Nome de usuários ----------
+
+Thaila, 17,feminino, programadora.
+Ezequiel, 18, masculino, mecanico.
+Rafaella, 17 anos, feminino, tec eventos.
+
+
+Consegui escrever uma linha!
